@@ -5,11 +5,10 @@ jobs:
       - image: circleci/node:8.9.1
 
     steps:
-      - run: 
+      - run:
           name: hello KU
           command: |
             echo 'hello from the other side'
-
 workflows:
   version: 2
   deploy:

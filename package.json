@@ -1,5 +1,5 @@
 {
-  "name": "cicd-test",
+  "name": "cicd",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
